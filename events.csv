@@ -1,0 +1,9 @@
+event_name,organizer,location,"ifnull(startTime, '2019-01-01 10:00:00')","ifnull(endTime, '2019-01-01 10:00:00')",event_description,contact
+"Hacking 101","Hack UCI","DBH 1000","2018-02-12 20:00:00","2018-02-12 22:00:00","Learn how to hack UCI's servers!",hack@hack.com
+"Dancing 101","Dance at UCI","Outside Student Center","2018-09-12 10:00:00","2018-09-12 11:00:00","Learn how to dance the night away!",dance@hack.com
+"Boba Social","Bon Apple Tea",ShareTea,"2018-02-11 18:00:00","2018-02-11 23:00:00","Drink boba and hang out with friends!",bon@apple.tea
+"Situation Awareness Olympics","Management 4 All","SBSG 4000","2018-05-01 18:00:00","2018-05-01 23:00:00","Figure out what to do in an emergency at your own company!",sanjithv@uci.edu
+"Bowling Night","Bowling at UCI","Irvine Lanes","2019-01-01 10:00:00","2019-01-01 10:00:00","Bowl with friends!",sanjithv@uci.edu
+"Bowling Night","Bowling at UCI","Irvine Lanes","2019-01-01 10:00:00","2019-01-01 10:00:00","Bowl with friends!",sanjithv@uci.edu
+"Bowling Night","Bowling at UCI","Irvine Lanes","2019-01-01 10:00:00","2019-01-01 10:00:00","Bowl with friends!",sanjithv@uci.edu
+"Bowling Night","Bowling at UCI","Irvine Lanes","2019-02-14 20:00:00","2019-02-14 22:00:00","Bowl with friends!",sanjithv@uci.edu
