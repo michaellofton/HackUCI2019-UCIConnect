@@ -3,5 +3,7 @@ A web app that makes it easier to connect for UCI students, organizations and fa
 
 This was a project done at UCI's Hackathon event, HackUCI2019.
 
+In this project, I learned about and worked with HTML, Javascript, Embedded Javascript Templates (EJS), Express.js, and Node.js.
+
 To learn more, visit UCI Connect on Devpost:
 https://devpost.com/software/uci-connect
